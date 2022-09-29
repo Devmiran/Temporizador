@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.774);
+}
+
+
+
+.tiempo{
+    border:solid 1px black;
+    border-radius: 16px;
+    background-color: azure;
+    margin-bottom: 40px;
+
+   }
+
+.container-general{
+    border: solid 1px black;
+    padding: 80px;
+    margin: 60px auto;
+    background-color: rgb(85, 131, 73);
+}
+
+#iniciar{
+    background-color: rgb(42, 226, 226);
+    border-radius: 12px;
+    overflow: hidden;
+}
